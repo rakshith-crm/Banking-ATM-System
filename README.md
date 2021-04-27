@@ -6,11 +6,11 @@ The project is a typical Banking System which supports multiple user account cre
 gcc compiler
 ```
 # Installation
-- Options 1 : Download gcc compiler
 ```
   git clone https://github.com/rakshith-crm/Banking-ATM-System
 ```
 # Usage
+- Options 1 : Download gcc compiler
 ```
 cd Banking-ATM-System
 ```
